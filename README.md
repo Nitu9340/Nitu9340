@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Nitu934/Nitu934 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nitu9340/Nitu9340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
